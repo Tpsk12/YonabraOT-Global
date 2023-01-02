@@ -1,0 +1,27 @@
+{
+    "eventlist": [
+        {
+            "colordark": "#46FF33",
+            "colorlight": "#FF5733",
+            "description": "Teremos nosso grande e aguardado ferumbras. Estejam preparados para este dia. Dia 20/07/2022 as 20h.",
+            "displaypriority": 6,
+            "enddate": 1661050800,
+            "isseasonal": false,
+            "name": "Ferumbras",
+            "specialevent": 1,
+            "startdate": 1660964400
+        },
+        {
+            "colordark": "#46FF33",
+            "colorlight": "#FF5733",
+            "description": "Teremos nosso grande e aguardado ferumbras. Estejam preparados para este dia. Dia 20/07/2022 as 20h.",
+            "displaypriority": 6,
+            "enddate": 1663729200,
+            "isseasonal": false,
+            "name": "Ferumbras",
+            "specialevent": 1,
+            "startdate": 1663642800
+        }
+    ],
+    "lastupdatetimestamp": 1668722161
+}

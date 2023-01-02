@@ -1,0 +1,1237 @@
+[ 2022-04-27 03:13:09,382 ] Asset loading complete
+[ 2022-09-15 00:31:42,248 ] Asset loading complete
+[ 2022-09-15 00:31:53,256 ] Asset loading complete
+[ 2022-09-15 00:41:39,499 ] Asset loading complete
+[ 2022-09-15 00:41:47,757 ] Asset loading complete
+[ 2022-09-15 00:41:54,076 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 00:42:01,393 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 00:42:05,758 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-15 00:42:05,758 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-09-15 00:42:05,758 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-09-15 00:42:05,814 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 00:42:05,843 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 00:42:05,855 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 00:42:06,859 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 00:44:39,879 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 00:44:39,927 ] Disconnected from gameserver
+[ 2022-09-15 00:44:43,529 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 00:55:23,371 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 00:55:25,410 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 00:55:25,421 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 00:55:26,338 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 00:55:29,421 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 00:55:35,572 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 00:55:37,023 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 00:55:37,038 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 00:55:37,988 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 00:55:41,072 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 00:55:42,072 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 00:55:46,122 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 00:55:46,131 ] Disconnected from gameserver
+[ 2022-09-15 00:55:47,371 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 00:55:47,388 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 00:55:48,323 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 00:55:51,422 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 00:55:52,471 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 00:55:52,488 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 00:56:07,422 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 00:56:07,471 ] Disconnected from gameserver
+[ 2022-09-15 00:58:13,957 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 00:58:15,164 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 00:58:15,174 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 00:58:16,123 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 00:58:17,707 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 01:06:15,805 ] Component creation error for  "qrc:/qml/clientwindow.qml" 
+ (qrc:/qml/clientwindow.qml: File was compiled ahead of time with an incompatible version of Qt and the original file cannot be found. Please recompile)
+[ 2022-09-15 01:06:20,959 ] Component creation error for  "qrc:/qml/clientwindow.qml" 
+ (qrc:/qml/clientwindow.qml: File was compiled ahead of time with an incompatible version of Qt and the original file cannot be found. Please recompile)
+[ 2022-09-15 01:06:22,643 ] Component creation error for  "qrc:/qml/clientwindow.qml" 
+ (qrc:/qml/clientwindow.qml: File was compiled ahead of time with an incompatible version of Qt and the original file cannot be found. Please recompile)
+[ 2022-09-15 01:06:23,553 ] Component creation error for  "qrc:/qml/clientwindow.qml" 
+ (qrc:/qml/clientwindow.qml: File was compiled ahead of time with an incompatible version of Qt and the original file cannot be found. Please recompile)
+[ 2022-09-15 01:06:24,620 ] Component creation error for  "qrc:/qml/clientwindow.qml" 
+ (qrc:/qml/clientwindow.qml: File was compiled ahead of time with an incompatible version of Qt and the original file cannot be found. Please recompile)
+[ 2022-09-15 01:06:26,473 ] Component creation error for  "qrc:/qml/clientwindow.qml" 
+ (qrc:/qml/clientwindow.qml: File was compiled ahead of time with an incompatible version of Qt and the original file cannot be found. Please recompile)
+[ 2022-09-15 01:06:28,974 ] Component creation error for  "qrc:/qml/clientwindow.qml" 
+ (qrc:/qml/clientwindow.qml: File was compiled ahead of time with an incompatible version of Qt and the original file cannot be found. Please recompile)
+[ 2022-09-15 01:06:31,681 ] Asset loading complete
+[ 2022-09-15 01:06:45,092 ] Asset loading complete
+[ 2022-09-15 01:06:48,764 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 01:06:50,227 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-15 01:06:50,227 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-09-15 01:06:50,227 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-09-15 01:06:50,319 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 01:06:50,331 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 01:06:50,342 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 01:06:51,331 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 01:11:23,868 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 01:11:23,926 ] Disconnected from gameserver
+[ 2022-09-15 01:16:56,222 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 01:16:57,057 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 01:16:57,073 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 01:16:57,084 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 01:16:58,007 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 01:51:03,919 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 01:51:03,977 ] Disconnected from gameserver
+[ 2022-09-15 01:54:32,623 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 01:54:33,136 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 01:54:33,155 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 01:54:33,172 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 01:54:34,090 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 02:10:20,419 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 02:10:20,475 ] Disconnected from gameserver
+[ 2022-09-15 02:10:44,054 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 02:10:45,058 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 02:10:45,081 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 02:10:45,103 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 02:10:46,020 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 02:12:01,021 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 02:12:01,072 ] Disconnected from gameserver
+[ 2022-09-15 02:12:21,121 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 02:12:21,376 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 02:12:21,388 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 02:12:21,398 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 02:12:22,338 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 02:12:24,771 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 02:12:24,824 ] Disconnected from gameserver
+[ 2022-09-15 03:31:44,237 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:31:45,685 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 03:31:45,704 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:31:46,638 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:31:49,770 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 03:31:50,771 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:31:53,804 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:33:58,823 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 03:33:58,879 ] Disconnected from gameserver
+[ 2022-09-15 03:34:58,223 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:34:58,920 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 03:34:58,974 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:34:59,857 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:35:03,024 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 03:35:04,024 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:35:08,074 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 03:35:08,097 ] Disconnected from gameserver
+[ 2022-09-15 03:35:09,334 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 03:35:09,340 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:35:10,307 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:35:13,423 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 03:35:14,424 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:35:18,474 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 03:35:18,477 ] Disconnected from gameserver
+[ 2022-09-15 03:35:19,702 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 03:35:19,707 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:35:20,674 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:35:23,774 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 03:35:24,774 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:35:28,824 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 03:35:28,828 ] Disconnected from gameserver
+[ 2022-09-15 03:35:30,065 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 03:35:30,074 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:35:31,024 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:35:34,124 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 03:35:35,124 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:35:39,174 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 03:35:39,178 ] Disconnected from gameserver
+[ 2022-09-15 03:35:41,531 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 03:35:41,541 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:35:42,491 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:35:43,558 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:35:43,608 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 03:35:43,611 ] Disconnected from gameserver
+[ 2022-09-15 03:36:08,692 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:36:08,907 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 03:36:08,925 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:36:09,875 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:36:12,975 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 03:36:13,976 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:36:18,025 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 03:36:18,028 ] Disconnected from gameserver
+[ 2022-09-15 03:36:19,295 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 03:36:19,308 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:36:19,324 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:36:20,225 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:44:11,065 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 03:44:11,124 ] Disconnected from gameserver
+[ 2022-09-15 03:44:14,665 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:44:15,186 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 03:44:15,198 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:44:16,149 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:44:19,266 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 03:44:20,265 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:44:24,314 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 03:44:24,319 ] Disconnected from gameserver
+[ 2022-09-15 03:44:25,561 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 03:44:25,565 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:44:26,081 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:44:26,515 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:49:40,770 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 03:49:40,829 ] Disconnected from gameserver
+[ 2022-09-15 03:52:29,605 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:52:30,060 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 03:52:30,072 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:52:30,083 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:52:31,005 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:53:11,373 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 03:53:11,420 ] Disconnected from gameserver
+[ 2022-09-15 03:53:27,073 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:53:27,560 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 03:53:27,573 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:53:27,584 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:53:28,506 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:53:32,173 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 03:53:32,222 ] Disconnected from gameserver
+[ 2022-09-15 03:59:04,577 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 03:59:05,114 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 03:59:05,128 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:59:05,138 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 03:59:06,078 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 04:01:03,563 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 04:01:03,614 ] Disconnected from gameserver
+[ 2022-09-15 04:02:35,631 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 04:02:36,467 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 04:02:36,480 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 04:02:37,414 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 04:02:40,013 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 04:04:52,465 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 04:04:52,518 ] Disconnected from gameserver
+[ 2022-09-15 04:05:12,999 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 04:05:13,935 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 04:05:13,949 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 04:05:13,966 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 04:05:14,866 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 04:08:13,519 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 04:08:13,570 ] Disconnected from gameserver
+[ 2022-09-15 12:27:01,143 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:27:02,081 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 12:27:02,091 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:27:02,991 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:27:06,174 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 12:27:07,173 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:27:11,224 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 12:27:11,234 ] Disconnected from gameserver
+[ 2022-09-15 12:27:12,452 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 12:27:12,457 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:27:13,424 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:27:16,524 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 12:27:17,524 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:27:21,574 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 12:27:21,578 ] Disconnected from gameserver
+[ 2022-09-15 12:27:22,803 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 12:27:22,808 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:27:23,775 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:27:26,874 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 12:27:27,875 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:27:31,924 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 12:27:31,927 ] Disconnected from gameserver
+[ 2022-09-15 12:27:33,165 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 12:27:33,174 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:27:34,125 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:27:34,691 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:29:56,676 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 12:29:56,733 ] Disconnected from gameserver
+[ 2022-09-15 12:31:35,545 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:31:36,302 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 12:31:36,310 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:31:36,328 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:31:37,245 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:32:56,263 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 12:32:56,313 ] Disconnected from gameserver
+[ 2022-09-15 12:33:13,762 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:33:14,353 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 12:33:14,362 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:33:14,373 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:33:15,313 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:34:10,064 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 12:34:10,116 ] Disconnected from gameserver
+[ 2022-09-15 12:34:37,198 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:34:37,736 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 12:34:37,747 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:34:37,764 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:34:38,713 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:39:54,669 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 12:39:54,719 ] Disconnected from gameserver
+[ 2022-09-15 12:44:40,756 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:44:41,258 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 12:44:41,323 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:44:41,333 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:44:42,222 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:46:03,499 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 12:46:03,552 ] Disconnected from gameserver
+[ 2022-09-15 12:46:11,090 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:46:11,809 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 12:46:11,823 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:46:12,774 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:46:15,874 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 12:46:16,874 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:46:18,890 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:48:34,826 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 12:48:34,886 ] Disconnected from gameserver
+[ 2022-09-15 12:48:50,876 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:48:51,347 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 12:48:51,359 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:48:51,370 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:48:52,310 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:49:14,876 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 12:49:14,928 ] Disconnected from gameserver
+[ 2022-09-15 12:50:29,543 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:50:29,948 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 12:50:29,960 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:50:29,972 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 12:50:30,895 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 12:52:13,312 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 12:52:13,365 ] Disconnected from gameserver
+[ 2022-09-15 13:38:07,801 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 13:38:08,190 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 13:38:08,200 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 13:38:08,201 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 13:38:09,118 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 13:38:45,468 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 13:38:45,515 ] Disconnected from gameserver
+[ 2022-09-15 13:38:50,635 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 13:38:51,101 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 13:38:51,118 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 13:38:52,051 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 13:38:55,168 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 13:38:56,168 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 13:39:00,218 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 13:39:00,221 ] Disconnected from gameserver
+[ 2022-09-15 13:39:01,478 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 13:39:01,484 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 13:39:01,501 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 13:39:02,418 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 13:39:22,069 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 13:39:22,120 ] Disconnected from gameserver
+[ 2022-09-15 13:39:55,486 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 13:39:55,925 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 13:39:55,935 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 13:39:55,951 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 13:39:56,886 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 13:40:40,620 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 13:40:40,675 ] Disconnected from gameserver
+[ 2022-09-15 13:58:12,234 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 13:58:12,983 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 13:58:13,000 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 13:58:13,934 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 13:58:17,067 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 13:58:18,067 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 13:58:21,117 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:02:50,922 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 14:02:50,973 ] Disconnected from gameserver
+[ 2022-09-15 14:19:38,802 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:19:39,190 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 14:19:39,202 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:19:39,203 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:19:40,152 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:23:58,923 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 14:23:58,977 ] Disconnected from gameserver
+[ 2022-09-15 14:25:11,457 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:25:11,827 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 14:25:11,840 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:25:12,774 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:25:15,924 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:25:16,923 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:25:20,973 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:25:20,977 ] Disconnected from gameserver
+[ 2022-09-15 14:25:22,191 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 14:25:22,207 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:25:23,158 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:25:26,274 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:25:27,274 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:25:30,307 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:33:15,964 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 14:33:16,020 ] Disconnected from gameserver
+[ 2022-09-15 14:33:43,197 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:33:43,711 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 14:33:43,731 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:33:43,741 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:33:44,680 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:33:59,165 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 14:33:59,213 ] Disconnected from gameserver
+[ 2022-09-15 14:40:17,493 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:40:23,372 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Canario" )
+[ 2022-09-15 14:40:23,404 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:40:23,587 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:40:27,470 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:40:28,469 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:40:32,520 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:40:32,549 ] Disconnected from gameserver
+[ 2022-09-15 14:40:33,801 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Canario" )
+[ 2022-09-15 14:40:33,804 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:40:34,753 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:40:37,870 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:40:38,920 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:40:40,437 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:40:45,520 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 14:40:45,667 ] Disconnected from gameserver
+[ 2022-09-15 14:40:45,736 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:40:47,159 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 14:40:47,170 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:40:47,182 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:40:48,021 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:44:27,124 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 14:44:27,200 ] Disconnected from gameserver
+[ 2022-09-15 14:45:15,258 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:45:15,819 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 14:45:15,824 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:45:15,840 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:45:16,759 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:47:14,577 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 14:47:14,634 ] Disconnected from gameserver
+[ 2022-09-15 14:49:23,344 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:49:23,923 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 14:49:23,928 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:49:24,861 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:49:27,961 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:49:29,011 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:49:33,061 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:49:33,065 ] Disconnected from gameserver
+[ 2022-09-15 14:49:34,332 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 14:49:34,332 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:49:35,244 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:49:38,362 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:49:39,362 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:49:43,412 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:49:43,415 ] Disconnected from gameserver
+[ 2022-09-15 14:49:44,641 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 14:49:44,661 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:49:45,611 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:49:48,711 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:49:49,761 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:49:53,812 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:49:53,815 ] Disconnected from gameserver
+[ 2022-09-15 14:49:55,061 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 14:49:55,078 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:49:56,028 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:49:59,111 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:50:00,112 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:50:04,162 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:50:04,165 ] Disconnected from gameserver
+[ 2022-09-15 14:50:06,555 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 14:50:06,611 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:50:07,512 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:50:10,662 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:50:11,662 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:50:15,712 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:50:15,715 ] Disconnected from gameserver
+[ 2022-09-15 14:50:20,456 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 14:50:20,512 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:50:21,395 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:50:24,562 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:50:25,562 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:50:29,616 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:50:29,619 ] Disconnected from gameserver
+[ 2022-09-15 14:50:35,317 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 14:50:35,362 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:50:36,262 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:50:39,413 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:50:40,462 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:50:44,513 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:50:44,517 ] Disconnected from gameserver
+[ 2022-09-15 14:50:50,296 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 14:50:50,312 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:50:51,246 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:50:54,362 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:50:55,362 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:50:59,413 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:50:59,415 ] Disconnected from gameserver
+[ 2022-09-15 14:51:05,165 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 14:51:05,179 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:51:06,129 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:51:09,214 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:51:10,263 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:51:14,312 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:51:14,316 ] Disconnected from gameserver
+[ 2022-09-15 14:51:20,055 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 14:51:20,055 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:51:21,012 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:51:24,113 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:51:25,113 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:51:29,163 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 14:51:29,169 ] Disconnected from gameserver
+[ 2022-09-15 14:53:46,932 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:53:47,534 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 14:53:47,548 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 14:53:48,498 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 14:53:50,582 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:03:57,724 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 15:03:57,791 ] Disconnected from gameserver
+[ 2022-09-15 15:04:57,758 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:04:58,712 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 15:04:58,724 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:04:59,674 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:05:02,775 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 15:05:03,774 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:05:06,808 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:09:58,263 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 15:09:58,327 ] Disconnected from gameserver
+[ 2022-09-15 15:11:11,163 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:11:11,844 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 15:11:11,863 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:11:11,874 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:11:12,781 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:12:10,314 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 15:12:10,366 ] Disconnected from gameserver
+[ 2022-09-15 15:12:16,447 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:12:17,383 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 15:12:17,397 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:12:18,347 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:12:21,464 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 15:12:22,464 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:12:25,498 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:12:34,665 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 15:12:34,714 ] Disconnected from gameserver
+[ 2022-09-15 15:13:35,848 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:13:36,284 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 15:13:36,298 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:13:36,309 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:13:37,249 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:17:38,219 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 15:17:38,271 ] Disconnected from gameserver
+[ 2022-09-15 15:17:45,969 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:17:46,549 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 15:17:46,552 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:17:47,519 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:17:50,619 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 15:17:51,619 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:17:55,668 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 15:17:55,672 ] Disconnected from gameserver
+[ 2022-09-15 15:17:56,931 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 15:17:56,936 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:17:56,947 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:17:57,886 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:18:06,419 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 15:18:06,468 ] Disconnected from gameserver
+[ 2022-09-15 15:18:29,120 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:18:29,557 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 15:18:29,569 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:18:29,580 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:18:30,520 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:18:53,420 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 15:18:53,483 ] Disconnected from gameserver
+[ 2022-09-15 15:18:58,603 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:18:59,477 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 15:18:59,487 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:19:00,420 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:19:03,570 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 15:19:04,570 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:19:08,620 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 15:19:08,623 ] Disconnected from gameserver
+[ 2022-09-15 15:19:09,879 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 15:19:09,886 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:19:09,903 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:19:10,821 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:23:00,973 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 15:23:01,027 ] Disconnected from gameserver
+[ 2022-09-15 15:23:07,290 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:23:07,926 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 15:23:07,940 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:23:08,890 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:23:12,023 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 15:23:13,024 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:23:17,074 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 15:23:17,078 ] Disconnected from gameserver
+[ 2022-09-15 15:23:18,319 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 15:23:18,323 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:23:18,334 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:23:19,259 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:26:01,626 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 15:26:01,682 ] Disconnected from gameserver
+[ 2022-09-15 15:26:18,459 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:26:18,863 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 15:26:18,876 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:26:18,893 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:26:19,827 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:28:49,912 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 15:28:49,968 ] Disconnected from gameserver
+[ 2022-09-15 15:29:06,279 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:29:06,800 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 15:29:06,812 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:29:06,828 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:29:07,763 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:37:06,169 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 15:37:06,230 ] Disconnected from gameserver
+[ 2022-09-15 15:37:14,435 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:37:15,126 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 15:37:15,136 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:37:16,085 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:37:19,219 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 15:37:20,219 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:37:22,236 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:42:40,773 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 15:42:40,819 ] Disconnected from gameserver
+[ 2022-09-15 15:42:40,879 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:42:42,038 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Alexas" )
+[ 2022-09-15 15:42:42,057 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:42:42,067 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:42:42,974 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:45:27,426 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 15:45:27,474 ] Disconnected from gameserver
+[ 2022-09-15 15:45:27,538 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:45:28,438 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 15:45:28,443 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:45:28,453 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:45:29,393 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:47:10,361 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 15:47:10,408 ] Disconnected from gameserver
+[ 2022-09-15 15:47:10,465 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:47:12,670 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Canario" )
+[ 2022-09-15 15:47:12,677 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:47:12,688 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:47:13,628 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:48:54,263 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 15:48:54,312 ] Disconnected from gameserver
+[ 2022-09-15 15:49:14,596 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:49:16,407 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 15:49:16,413 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:49:16,423 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:49:17,362 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:50:06,064 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 15:50:06,112 ] Disconnected from gameserver
+[ 2022-09-15 15:50:14,298 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:50:14,901 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 15:50:14,913 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:50:15,849 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 15:50:18,964 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 15:50:19,964 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 15:50:20,980 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:00:03,723 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 16:00:03,776 ] Disconnected from gameserver
+[ 2022-09-15 16:03:56,909 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:03:57,348 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 16:03:57,359 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:03:57,375 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:03:58,292 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:15:03,302 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:15:05,518 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 16:15:05,565 ] Disconnected from gameserver
+[ 2022-09-15 16:15:05,748 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Canario" )
+[ 2022-09-15 16:15:05,769 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:15:05,785 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:15:06,686 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:15:11,418 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 16:15:11,460 ] Disconnected from gameserver
+[ 2022-09-15 16:15:11,503 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:15:12,525 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 16:15:12,536 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:15:12,546 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:15:13,486 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:21:18,474 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 16:21:18,559 ] Disconnected from gameserver
+[ 2022-09-15 16:21:56,675 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:21:57,614 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 16:21:57,624 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:21:58,525 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:22:01,675 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 16:22:02,675 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:22:06,725 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 16:22:07,358 ] Disconnected from gameserver
+[ 2022-09-15 16:22:08,497 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 16:22:08,508 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:22:09,441 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:22:12,575 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 16:22:13,574 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:22:17,624 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 16:22:17,629 ] Disconnected from gameserver
+[ 2022-09-15 16:22:18,884 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 16:22:18,891 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:22:19,841 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:22:22,977 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 16:22:23,984 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:22:28,025 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 16:22:28,029 ] Disconnected from gameserver
+[ 2022-09-15 16:22:29,275 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 16:22:29,291 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:22:30,225 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:22:30,817 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:22:42,460 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 16:22:42,524 ] Disconnected from gameserver
+[ 2022-09-15 16:23:53,293 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:23:53,751 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 16:23:53,760 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:23:54,276 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:23:54,660 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:26:55,463 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 16:26:55,520 ] Disconnected from gameserver
+[ 2022-09-15 16:27:45,712 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:27:46,135 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 16:27:46,146 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:27:46,163 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:27:47,079 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:31:35,517 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 16:31:35,579 ] Disconnected from gameserver
+[ 2022-09-15 16:31:43,450 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:31:43,672 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 16:31:43,682 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:31:44,633 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:31:47,766 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 16:31:48,767 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:31:51,300 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:34:17,168 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 16:34:17,225 ] Disconnected from gameserver
+[ 2022-09-15 16:34:45,503 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 16:34:45,907 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 16:34:45,919 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:34:45,935 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 16:34:46,835 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:02:21,211 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 17:02:21,273 ] Disconnected from gameserver
+[ 2022-09-15 17:02:51,127 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:02:52,052 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 17:02:52,060 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:02:52,996 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:02:56,112 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 17:02:57,113 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:02:59,645 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:03:00,310 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 17:03:00,318 ] Disconnected from gameserver
+[ 2022-09-15 17:03:03,527 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:03:04,082 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 17:03:04,094 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:03:05,030 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:03:08,161 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 17:03:09,161 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:03:13,211 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 17:03:13,243 ] Disconnected from gameserver
+[ 2022-09-15 17:03:14,481 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 17:03:14,494 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:03:15,411 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:03:17,527 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:03:40,511 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 17:03:40,560 ] Disconnected from gameserver
+[ 2022-09-15 17:03:40,622 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:03:41,621 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Alexas" )
+[ 2022-09-15 17:03:41,627 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:03:41,638 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:03:42,577 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:03:54,562 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 17:03:54,617 ] Disconnected from gameserver
+[ 2022-09-15 17:03:54,685 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:03:55,702 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 17:03:55,711 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:03:55,722 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:03:56,645 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:04:02,312 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 17:04:02,363 ] Disconnected from gameserver
+[ 2022-09-15 17:04:02,415 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:04:03,521 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Alexas" )
+[ 2022-09-15 17:04:03,527 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:04:03,545 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:04:04,478 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:04:38,212 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 17:04:38,324 ] Disconnected from gameserver
+[ 2022-09-15 17:05:10,496 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:05:11,491 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Alexas" )
+[ 2022-09-15 17:05:11,495 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:05:12,430 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:05:15,562 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 17:05:16,563 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:05:20,612 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 17:05:20,618 ] Disconnected from gameserver
+[ 2022-09-15 17:05:21,853 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Alexas" )
+[ 2022-09-15 17:05:21,862 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:05:22,796 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:05:22,880 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:05:43,814 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 17:05:44,032 ] Disconnected from gameserver
+[ 2022-09-15 17:05:44,105 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:06:03,491 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Creme De Barbear" )
+[ 2022-09-15 17:06:03,496 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:06:03,507 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:06:04,446 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:06:28,224 ] Asset loading complete
+[ 2022-09-15 17:06:50,402 ] Asset loading complete
+[ 2022-09-15 17:06:50,443 ] Asset loading complete
+[ 2022-09-15 17:06:54,213 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 17:06:58,272 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-15 17:06:58,273 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-09-15 17:06:58,273 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-09-15 17:06:58,583 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Creme De Barbear" )
+[ 2022-09-15 17:06:58,599 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:06:58,614 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:06:58,664 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 17:06:58,822 ] Disconnected from gameserver
+[ 2022-09-15 17:06:59,399 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 17:07:05,044 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-15 17:07:05,045 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-09-15 17:07:05,045 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-09-15 17:07:07,140 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 17:07:07,182 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:07:07,182 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 17:07:07,183 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:07:08,365 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 17:18:12,708 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 17:18:12,761 ] Disconnected from gameserver
+[ 2022-09-15 17:18:18,121 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 17:18:18,141 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:18:19,059 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:18:19,774 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 17:18:22,206 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 17:18:23,207 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:18:27,258 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 17:18:27,261 ] Disconnected from gameserver
+[ 2022-09-15 17:18:28,527 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 17:18:28,541 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:18:29,474 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:18:31,575 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:20:08,710 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 17:20:08,758 ] Disconnected from gameserver
+[ 2022-09-15 17:20:25,392 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:20:25,869 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 17:20:25,875 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:20:25,892 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:20:26,809 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:20:59,710 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 17:20:59,760 ] Disconnected from gameserver
+[ 2022-09-15 17:29:57,034 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:29:59,867 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:30:01,801 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 17:30:01,817 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:30:01,818 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:30:02,751 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:32:45,470 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 17:32:45,536 ] Disconnected from gameserver
+[ 2022-09-15 17:33:00,336 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:33:00,744 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 17:33:00,753 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:33:00,770 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:33:01,703 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:33:15,970 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 17:33:16,018 ] Disconnected from gameserver
+[ 2022-09-15 17:33:29,587 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:33:30,189 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 17:33:30,203 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:33:31,137 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:33:34,270 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 17:33:35,270 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:33:39,321 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 17:33:39,324 ] Disconnected from gameserver
+[ 2022-09-15 17:33:40,569 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 17:33:40,587 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:33:41,504 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:33:42,103 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:35:43,022 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 17:35:43,072 ] Disconnected from gameserver
+[ 2022-09-15 17:35:46,405 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:35:46,759 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 17:35:46,772 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:35:47,722 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:35:50,822 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 17:35:51,822 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:35:55,872 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 17:35:55,876 ] Disconnected from gameserver
+[ 2022-09-15 17:35:57,141 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 17:35:57,155 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:35:58,105 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:35:58,172 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:37:30,374 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 17:37:30,422 ] Disconnected from gameserver
+[ 2022-09-15 17:41:30,227 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:41:30,931 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 17:41:30,943 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:41:31,893 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 17:41:35,027 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 17:41:36,027 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:45:10,724 ] Asset loading complete
+[ 2022-09-15 17:45:23,697 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 17:45:25,175 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-15 17:45:25,176 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-09-15 17:45:25,176 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-09-15 17:45:25,249 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 17:45:25,264 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:45:25,274 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 17:45:26,280 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 17:46:17,764 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 17:46:17,818 ] Disconnected from gameserver
+[ 2022-09-15 21:19:11,761 ] Asset loading complete
+[ 2022-09-15 21:21:54,563 ] Asset loading complete
+[ 2022-09-15 21:22:21,634 ] Asset loading complete
+[ 2022-09-15 21:23:16,487 ] Asset loading complete
+[ 2022-09-15 21:23:20,600 ] Asset loading complete
+[ 2022-09-15 21:26:09,921 ] "Could not register resource 'graphics'. File 'C:/Users/Desk/Desktop/tibia-client-12.91.12329/bin/graphics_resources.rcc' not found"
+[ 2022-09-15 21:26:11,372 ] "Could not register resource 'graphics'. File 'C:/Users/Desk/Desktop/tibia-client-12.91.12329/bin/graphics_resources.rcc' not found"
+[ 2022-09-15 21:26:21,609 ] "Could not register resource 'graphics'. File 'C:/Users/Desk/Desktop/tibia-client-12.91.12329/bin/graphics_resources.rcc' not found"
+[ 2022-09-15 21:26:36,235 ] Asset loading complete
+[ 2022-09-15 21:26:46,863 ] Component creation error for  "qrc:/qml/clientwindow.qml" 
+ (qrc:/qml/clientwindow.qml: File was compiled ahead of time with an incompatible version of Qt and the original file cannot be found. Please recompile)
+[ 2022-09-15 21:26:59,065 ] Asset loading complete
+[ 2022-09-15 21:27:16,203 ] Asset loading complete
+[ 2022-09-15 21:28:09,347 ] Asset loading complete
+[ 2022-09-15 21:28:30,704 ] Asset loading complete
+[ 2022-09-15 21:38:08,962 ] Asset loading complete
+[ 2022-09-15 21:38:37,729 ] Asset loading complete
+[ 2022-09-15 21:56:52,028 ] Asset loading complete
+[ 2022-09-15 22:01:14,030 ] Asset loading complete
+[ 2022-09-15 22:01:21,935 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-15 22:01:21,935 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-09-15 22:01:21,935 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-09-15 22:01:22,008 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 22:01:22,009 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 22:01:22,029 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 22:01:25,045 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 22:01:26,078 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-15 22:01:27,078 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 22:01:27,089 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 22:02:13,829 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 22:02:13,882 ] Disconnected from gameserver
+[ 2022-09-15 22:02:31,403 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 22:02:31,430 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 22:02:31,480 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 22:02:31,497 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 22:02:32,331 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 23:18:33,071 ] Asset loading complete
+[ 2022-09-15 23:18:55,031 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 23:19:22,814 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-15 23:19:22,814 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-09-15 23:19:22,814 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-09-15 23:19:22,906 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 23:19:22,915 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 23:19:22,927 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 23:19:23,965 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 23:30:19,643 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 23:30:19,707 ] Disconnected from gameserver
+[ 2022-09-15 23:33:00,989 ] Asset loading complete
+[ 2022-09-15 23:33:09,750 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-15 23:33:09,750 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-09-15 23:33:09,750 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-09-15 23:33:09,840 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 23:33:09,862 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 23:33:09,862 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 23:33:11,377 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 23:33:11,461 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 23:39:58,001 ] News query failed: "Unrecognized event news."
+[ 2022-09-15 23:39:58,425 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 23:39:58,434 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 23:39:58,444 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 23:39:59,350 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 23:48:19,392 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 23:48:19,463 ] Disconnected from gameserver
+[ 2022-09-15 23:49:49,592 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 23:49:50,073 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-15 23:49:50,092 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 23:49:50,104 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-15 23:49:50,992 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-15 23:50:09,244 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-15 23:50:09,323 ] Disconnected from gameserver
+[ 2022-09-16 00:04:45,772 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 00:04:46,214 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 00:04:46,222 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 00:04:47,156 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 00:04:50,289 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 00:04:51,289 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 00:04:55,340 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 00:04:55,367 ] Disconnected from gameserver
+[ 2022-09-16 00:04:56,678 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 00:04:56,690 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 00:04:57,591 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 00:05:00,739 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 00:05:01,740 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 00:05:05,789 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 00:05:05,795 ] Disconnected from gameserver
+[ 2022-09-16 00:05:07,116 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 00:05:07,123 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 00:05:08,039 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 00:05:11,189 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 00:05:12,189 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 00:05:16,240 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 00:05:16,244 ] Disconnected from gameserver
+[ 2022-09-16 00:05:17,511 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 00:05:17,523 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 00:05:17,540 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 00:05:18,456 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 00:07:36,991 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-16 00:07:37,067 ] Disconnected from gameserver
+[ 2022-09-16 00:08:03,192 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 00:08:03,627 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 00:08:03,642 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 00:08:03,643 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 00:08:04,576 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 00:10:48,894 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-16 00:10:48,964 ] Disconnected from gameserver
+[ 2022-09-16 00:13:12,596 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 00:13:13,252 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 00:13:13,263 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 00:13:13,275 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 00:13:14,196 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 00:42:49,090 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-16 00:42:49,166 ] Disconnected from gameserver
+[ 2022-09-16 00:43:38,440 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 00:43:38,822 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 00:43:38,840 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 00:43:38,851 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 00:43:39,724 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 01:21:30,791 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-16 01:21:30,865 ] Disconnected from gameserver
+[ 2022-09-16 01:23:17,544 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 01:23:18,036 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 01:23:18,037 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 01:23:18,061 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 01:23:18,978 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 01:28:04,348 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-16 01:28:04,410 ] Disconnected from gameserver
+[ 2022-09-16 01:28:30,132 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 01:28:31,084 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 01:28:31,098 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 01:28:31,099 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 01:28:32,049 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 01:41:17,843 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-16 01:41:17,925 ] Disconnected from gameserver
+[ 2022-09-16 01:41:36,327 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 01:41:37,035 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 01:41:37,043 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 01:41:37,044 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 01:41:37,928 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 01:56:22,040 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-16 01:56:22,103 ] Disconnected from gameserver
+[ 2022-09-16 01:57:34,541 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 01:57:35,037 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 01:57:35,040 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 01:57:35,057 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 01:57:35,991 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 02:06:00,148 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-16 02:06:00,329 ] Disconnected from gameserver
+[ 2022-09-16 02:33:14,006 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 02:33:14,578 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 02:33:14,589 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 02:33:14,606 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 02:33:15,457 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 02:33:41,790 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-16 02:33:41,853 ] Disconnected from gameserver
+[ 2022-09-16 02:34:54,908 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 02:34:55,365 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 02:34:55,374 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 02:34:55,385 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 02:34:56,291 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 02:40:36,146 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-16 02:40:36,209 ] Disconnected from gameserver
+[ 2022-09-16 02:49:25,586 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 02:49:26,128 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 02:49:26,137 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 02:49:26,153 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 02:49:27,038 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 03:00:15,747 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-16 03:00:15,813 ] Disconnected from gameserver
+[ 2022-09-16 03:01:15,081 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 03:01:15,812 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 03:01:15,830 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:01:15,847 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:01:16,765 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 03:19:58,598 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-16 03:19:58,662 ] Disconnected from gameserver
+[ 2022-09-16 03:20:37,265 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 03:20:37,819 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 03:20:37,831 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:20:37,848 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:20:38,765 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 03:36:51,946 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-16 03:36:52,019 ] Disconnected from gameserver
+[ 2022-09-16 03:47:13,474 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 03:47:13,906 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 03:47:13,922 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:47:14,822 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 03:47:17,989 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:47:18,989 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:47:23,038 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:47:23,052 ] Disconnected from gameserver
+[ 2022-09-16 03:47:24,294 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 03:47:24,305 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:47:25,240 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 03:47:28,389 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:47:29,389 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:47:33,439 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:47:33,444 ] Disconnected from gameserver
+[ 2022-09-16 03:47:34,728 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 03:47:34,740 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:47:35,673 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 03:47:38,789 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:47:39,789 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:47:43,839 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:47:43,844 ] Disconnected from gameserver
+[ 2022-09-16 03:47:45,132 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 03:47:45,139 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:47:46,056 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 03:47:49,190 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:47:50,189 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:47:54,239 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:47:54,244 ] Disconnected from gameserver
+[ 2022-09-16 03:47:56,596 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 03:47:56,606 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:47:57,539 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 03:48:00,640 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:48:01,640 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:48:05,690 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:48:05,693 ] Disconnected from gameserver
+[ 2022-09-16 03:48:10,301 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 03:48:10,307 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:48:11,256 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 03:48:14,340 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:48:15,390 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:48:19,439 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:48:19,444 ] Disconnected from gameserver
+[ 2022-09-16 03:48:25,166 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 03:48:25,174 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:48:26,124 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 03:48:29,240 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:48:30,290 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:48:34,340 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:48:34,345 ] Disconnected from gameserver
+[ 2022-09-16 03:48:40,120 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 03:48:40,139 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:48:41,074 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 03:48:44,190 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:48:45,190 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:48:49,240 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:48:49,245 ] Disconnected from gameserver
+[ 2022-09-16 03:48:55,024 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 03:48:55,040 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:48:55,974 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 03:48:59,091 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:49:00,090 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:49:04,140 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:49:04,144 ] Disconnected from gameserver
+[ 2022-09-16 03:49:09,887 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 03:49:09,891 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:49:10,824 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 03:49:13,941 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:49:14,941 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 03:49:18,991 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "Connection refused" )
+[ 2022-09-16 03:49:19,019 ] Disconnected from gameserver
+[ 2022-09-16 14:22:55,835 ] Asset loading complete
+[ 2022-09-16 14:54:35,279 ] Asset loading complete
+[ 2022-09-16 14:56:05,597 ] News query failed: "Unrecognized event news."
+[ 2022-09-16 14:56:06,843 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-16 14:56:06,843 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-09-16 14:56:06,843 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-09-16 14:56:06,931 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 14:56:06,948 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 14:56:06,964 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 14:56:07,965 ] News query failed: "Unrecognized event news."
+[ 2022-09-16 14:58:51,750 ] Connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-16 14:58:51,802 ] Disconnected from gameserver
+[ 2022-09-16 15:00:02,101 ] News query failed: "Unrecognized event news."
+[ 2022-09-16 15:00:02,512 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "CM" )
+[ 2022-09-16 15:00:02,517 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 15:00:02,529 ] Connected to gameserver  "tcp://127.0.0.1:7172" "SEVER TESTER"
+[ 2022-09-16 15:00:03,451 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-09-16 15:02:10,103 ] Asset loading complete
+[ 2022-09-16 15:02:20,458 ] Asset loading complete
+[ 2022-09-16 15:02:24,743 ] Asset loading complete
+[ 2022-09-16 15:02:29,090 ] Asset loading complete
+[ 2022-09-16 15:02:36,536 ] Asset loading complete
+[ 2022-09-16 15:02:39,469 ] News query failed: "Unrecognized event news."
+[ 2022-09-16 15:04:38,365 ] Asset loading complete
+[ 2022-09-16 15:05:16,896 ] Asset loading complete
+[ 2022-09-16 15:07:39,257 ] Asset loading complete
+[ 2022-09-16 15:08:09,099 ] Asset loading complete
+[ 2022-09-16 15:31:16,343 ] Asset loading complete
+[ 2022-09-16 15:33:57,266 ] Asset loading complete
+[ 2022-09-16 15:36:52,381 ] Asset loading complete
+[ 2022-09-16 15:38:18,185 ] Asset loading complete
+[ 2022-09-16 15:38:32,436 ] News query failed: "Unrecognized event news."
+[ 2022-09-16 15:38:33,659 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-16 15:38:33,659 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-09-16 15:38:33,659 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-09-16 15:38:33,730 ] Request connection to gameserver  "tcp://yonabrasv.online:7172"  (unprotected:  "tcp://yonabrasv.online:7172" )  requested (Charakter "Global" )
+[ 2022-09-16 15:38:33,735 ] Request connection to gameserver  "tcp://yonabrasv.online:7172" "YonabraOT"
+[ 2022-09-16 15:38:37,118 ] News query failed: "Unrecognized event news."
+[ 2022-09-16 15:38:54,269 ] News query failed: "Unrecognized event news."
+[ 2022-09-16 15:38:58,242 ] Request connection to gameserver  "tcp://yonabrasv.online:7172"  (unprotected:  "tcp://yonabrasv.online:7172" )  requested (Charakter "GOD" )
+[ 2022-09-16 15:38:58,252 ] Request connection to gameserver  "tcp://yonabrasv.online:7172" "YonabraOT"
+[ 2022-09-16 15:38:59,203 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://yonabrasv.online/login.php") ) due to too many retries.
+[ 2022-09-16 15:40:22,353 ] Connection to gameserver  "tcp://yonabrasv.online:7172" "YonabraOT"  was disconnected ( "Connection timed out" )
+[ 2022-09-16 15:40:23,354 ] Request connection to gameserver  "tcp://yonabrasv.online:7172" "YonabraOT"
+[ 2022-09-16 15:40:35,126 ] Asset loading complete
+[ 2022-09-16 15:40:54,088 ] Asset loading complete
+[ 2022-09-16 15:41:47,387 ] Connection to gameserver  "tcp://yonabrasv.online:7172" "YonabraOT"  was disconnected ( "Connection timed out" )
+[ 2022-09-16 15:41:47,405 ] Disconnected from gameserver
+[ 2022-09-16 15:41:48,592 ] Request connection to gameserver  "tcp://yonabrasv.online:7172"  (unprotected:  "tcp://yonabrasv.online:7172" )  requested (Charakter "GOD" )
+[ 2022-09-16 15:41:48,594 ] Request connection to gameserver  "tcp://yonabrasv.online:7172" "YonabraOT"
+[ 2022-09-16 15:41:49,535 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://yonabrasv.online/login.php") ) due to too many retries.
+[ 2022-09-16 15:43:12,637 ] Connection to gameserver  "tcp://yonabrasv.online:7172" "YonabraOT"  was disconnected ( "Connection timed out" )
+[ 2022-09-16 15:43:13,637 ] Request connection to gameserver  "tcp://yonabrasv.online:7172" "YonabraOT"
+[ 2022-09-16 15:44:37,737 ] Connection to gameserver  "tcp://yonabrasv.online:7172" "YonabraOT"  was disconnected ( "Connection timed out" )
+[ 2022-09-16 15:44:37,741 ] Disconnected from gameserver
+[ 2022-09-16 15:44:38,924 ] Request connection to gameserver  "tcp://yonabrasv.online:7172"  (unprotected:  "tcp://yonabrasv.online:7172" )  requested (Charakter "GOD" )
+[ 2022-09-16 15:44:38,926 ] Request connection to gameserver  "tcp://yonabrasv.online:7172" "YonabraOT"
+[ 2022-09-16 15:44:39,866 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://yonabrasv.online/login.php") ) due to too many retries.
+[ 2022-09-16 15:44:44,738 ] Asset loading complete
+[ 2022-09-16 15:45:35,579 ] Asset loading complete
+[ 2022-09-16 15:45:39,574 ] News query failed: "Unrecognized event news."
+[ 2022-09-16 15:45:40,723 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-16 15:45:40,723 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-09-16 15:45:40,723 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-09-16 15:45:40,795 ] Request connection to gameserver  "tcp://yonabraot.zapto.org:7172"  (unprotected:  "tcp://yonabraot.zapto.org:7172" )  requested (Charakter "GOD" )
+[ 2022-09-16 15:45:40,807 ] Request connection to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"
+[ 2022-09-16 15:45:41,807 ] News query failed: "Unrecognized event news."
+[ 2022-09-16 15:45:44,941 ] Connection to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"  was disconnected ( "Connection refused" )
+[ 2022-09-16 15:45:45,941 ] Request connection to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"
+[ 2022-09-16 15:45:50,041 ] Connection to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"  was disconnected ( "Connection refused" )
+[ 2022-09-16 15:45:50,046 ] Disconnected from gameserver
+[ 2022-09-16 15:45:51,400 ] Request connection to gameserver  "tcp://yonabraot.zapto.org:7172"  (unprotected:  "tcp://yonabraot.zapto.org:7172" )  requested (Charakter "GOD" )
+[ 2022-09-16 15:45:51,408 ] Request connection to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"
+[ 2022-09-16 15:45:52,425 ] News query failed: "Unrecognized event news."
+[ 2022-09-16 15:45:55,542 ] Connection to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"  was disconnected ( "Connection refused" )
+[ 2022-09-16 15:45:56,541 ] Request connection to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"
+[ 2022-09-16 15:46:00,641 ] Connection to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"  was disconnected ( "Connection refused" )
+[ 2022-09-16 15:46:00,644 ] Disconnected from gameserver
+[ 2022-09-16 15:46:01,888 ] Request connection to gameserver  "tcp://yonabraot.zapto.org:7172"  (unprotected:  "tcp://yonabraot.zapto.org:7172" )  requested (Charakter "GOD" )
+[ 2022-09-16 15:46:01,891 ] Request connection to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"
+[ 2022-09-16 15:46:02,841 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://yonabraot.zapto.org/login.php") ) due to too many retries.
+[ 2022-09-16 15:46:02,987 ] Connection to gameserver  "tcp://yonabrasv.online:7172" "YonabraOT"  was disconnected ( "Connection timed out" )
+[ 2022-09-16 15:46:03,987 ] Request connection to gameserver  "tcp://yonabrasv.online:7172" "YonabraOT"
+[ 2022-09-16 15:46:05,991 ] Connection to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"  was disconnected ( "Connection refused" )
+[ 2022-09-16 15:46:06,991 ] Request connection to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"
+[ 2022-09-16 15:46:11,092 ] Connection to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"  was disconnected ( "Connection refused" )
+[ 2022-09-16 15:46:11,095 ] Disconnected from gameserver
+[ 2022-09-16 15:46:12,359 ] Request connection to gameserver  "tcp://yonabraot.zapto.org:7172"  (unprotected:  "tcp://yonabraot.zapto.org:7172" )  requested (Charakter "GOD" )
+[ 2022-09-16 15:46:12,375 ] Request connection to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"
+[ 2022-09-16 15:46:13,308 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://yonabraot.zapto.org/login.php") ) due to too many retries.
+[ 2022-09-16 15:46:16,475 ] Connected to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"
+[ 2022-09-16 15:46:49,896 ] Asset loading complete
+[ 2022-09-16 15:48:33,126 ] Asset loading complete
+[ 2022-09-16 15:49:54,684 ] Asset loading complete
+[ 2022-09-16 15:50:01,411 ] News query failed: "Unrecognized event news."
+[ 2022-09-16 15:50:02,809 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-16 15:50:02,809 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-09-16 15:50:02,809 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-09-16 15:50:02,882 ] Request connection to gameserver  "tcp://yonabraot.zapto.org:7172"  (unprotected:  "tcp://yonabraot.zapto.org:7172" )  requested (Charakter "GOD" )
+[ 2022-09-16 15:50:02,894 ] Request connection to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"
+[ 2022-09-16 15:50:02,911 ] Connected to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"
+[ 2022-09-16 15:50:03,895 ] News query failed: "Unrecognized event news."
+[ 2022-09-16 15:52:57,318 ] Asset loading complete
+[ 2022-09-16 15:54:24,637 ] Asset loading complete
+[ 2022-09-16 15:54:57,722 ] Asset loading complete
+[ 2022-09-16 15:55:05,435 ] Asset loading complete
+[ 2022-09-16 15:55:05,981 ] Asset loading complete
+[ 2022-09-16 15:55:12,537 ] Asset loading complete
+[ 2022-09-16 15:57:26,311 ] Asset loading complete
+[ 2022-09-16 15:57:31,700 ] News query failed: "Unrecognized event news."
+[ 2022-09-16 15:57:32,818 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-16 15:57:32,818 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-09-16 15:57:32,818 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-09-16 15:57:32,905 ] Request connection to gameserver  "tcp://yonabraot.zapto.org:7172"  (unprotected:  "tcp://yonabraot.zapto.org:7172" )  requested (Charakter "GOD" )
+[ 2022-09-16 15:57:32,917 ] Request connection to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"
+[ 2022-09-16 15:57:32,933 ] Connected to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"
+[ 2022-09-16 15:57:33,917 ] News query failed: "Unrecognized event news."
+[ 2022-09-16 15:57:40,738 ] Asset loading complete
+[ 2022-09-16 16:02:18,683 ] Asset loading complete
+[ 2022-09-16 16:02:32,841 ] Component creation error for  "qrc:/qml/clientwindow.qml" 
+ (qrc:/qml/clientwindow.qml: File was compiled ahead of time with an incompatible version of Qt and the original file cannot be found. Please recompile)
+[ 2022-09-16 16:02:33,680 ] Component creation error for  "qrc:/qml/clientwindow.qml" 
+ (qrc:/qml/clientwindow.qml: File was compiled ahead of time with an incompatible version of Qt and the original file cannot be found. Please recompile)
+[ 2022-09-16 16:02:35,363 ] Asset loading complete
+[ 2022-09-16 16:02:39,704 ] Asset loading complete
+[ 2022-09-16 16:02:52,713 ] Asset loading complete
+[ 2022-09-16 16:02:56,404 ] News query failed: "Unrecognized event news."
+[ 2022-09-16 16:02:57,418 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-16 16:02:57,418 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-09-16 16:02:57,418 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-09-16 16:02:57,488 ] Request connection to gameserver  "tcp://yonabraot.zapto.org:7172"  (unprotected:  "tcp://yonabraot.zapto.org:7172" )  requested (Charakter "GOD" )
+[ 2022-09-16 16:02:57,489 ] Request connection to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"
+[ 2022-09-16 16:02:57,521 ] Connected to gameserver  "tcp://yonabraot.zapto.org:7172" "YonabraOT"
+[ 2022-09-16 16:02:58,504 ] News query failed: "Unrecognized event news."
+[ 2022-09-16 16:03:03,728 ] Asset loading complete
+[ 2022-09-16 16:03:16,680 ] Asset loading complete
+[ 2022-09-16 16:06:50,946 ] Asset loading complete
+[ 2022-09-16 16:06:56,329 ] Asset loading complete
+[ 2022-11-17 18:55:59,544 ] Asset loading complete
